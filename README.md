@@ -40,6 +40,5 @@ cd WebWizard
 ## API Keys
 
 You will need API keys to access the following services:
-
     [Groq API Keys](https://console.groq.com/keys)
     [Google Gemini API Key](https://aistudio.google.com/app/apikey)
