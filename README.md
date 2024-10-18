@@ -3,6 +3,8 @@
 ## Your Own Perplexity AI Alternative with Python and LangChain
 This project provides a open-source alternative to Perplexity AI using Python, Langchain and various libraries.
 
+![web_wizard_demo](https://github.com/user-attachments/assets/875abf64-6ad1-4287-992b-058cbb59c9dd)
+
 ## Key Features
 
 - **🔍 Web Scraping**: Utilize DuckDuckGo for internet data gathering.
