@@ -28,7 +28,14 @@ cd WebWizard
     pip3 install -r requirements.txt
     ```
 
-3. **Run the Program:**
+3. **Update .env File**
+     Before running the program, ensure to update your .env file with your API keys:
+     ```plaintext
+        GROQ_API_KEY=your_groq_api_key_here
+        GOOGLE_API_KEY=your_google_api_key_here
+     ```
+
+4. **Run the Program:**
     ```bash
     shiny run web_wizard.py
     ```
