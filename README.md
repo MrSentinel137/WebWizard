@@ -5,7 +5,7 @@ This project provides a open-source alternative to Perplexity AI using Python, L
 
 ## Key Features
 
-- **🔍 Web Scraping**: Utilize DuckDuckGo for efficient internet data gathering.
+- **🔍 Web Scraping**: Utilize DuckDuckGo for internet data gathering.
 - **⚡ Fast Access**: Leverage the Groq API for quick responses from various language models.
 - **🗄️ Vector Storage**: Use ChromaDB for effective data storage and retrieval.
 - **🖥️ User-Friendly Interface**: Built with Shiny, offering an interactive and smooth user experience.
