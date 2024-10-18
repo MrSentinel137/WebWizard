@@ -22,7 +22,7 @@ cd WebWizard
     ```bash
     pip install -r requirements.txt
     ```
-     OR
+     or
     
     ```bash
     pip3 install -r requirements.txt
